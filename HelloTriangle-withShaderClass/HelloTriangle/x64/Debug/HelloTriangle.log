@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\dudua\OneDrive\Documents\Unisinos\2022.1\Processamento Gráfico\PG2022-1-main\PG2022-1-main\HelloTriangle-withShaderClass\HelloTriangle\glad.c(24,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
