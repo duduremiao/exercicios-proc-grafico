@@ -1,0 +1,12 @@
+﻿Source.obj : error LNK2019: símbolo externo não resolvido, glfwInit, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwTerminate, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwCreateWindow, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwWindowShouldClose, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwSetWindowShouldClose, referenciado na função "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z)
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwGetFramebufferSize, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwPollEvents, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwSetKeyCallback, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwMakeContextCurrent, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwSwapBuffers, referenciado na função main
+Source.obj : error LNK2019: símbolo externo não resolvido, glfwGetProcAddress, referenciado na função main
+C:\Users\dudua\OneDrive\Documents\Unisinos\2022.1\Processamento Gráfico\PG2022-1-main\PG2022-1-main\HelloTriangle-withShaderClass\x64\Debug\HelloTriangle.exe : fatal error LNK1120: 11 externo não resolvidos
