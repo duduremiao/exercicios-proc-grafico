@@ -8,3 +8,6 @@ Se o seu ambiente de desenvolvimento for diferente, você deve baixar:
 - GLAD: https://glad.dav1d.de/ - para mais instruções, consulte: https://learnopengl.com/Getting-started/Creating-a-window
 
 Exercício 2 comentado abaixo do 1.
+
+Cmainho source:
+https://github.com/duduremiao/exercicios-proc-grafico/blob/main/Exercicios-Lista2/HelloTriangle-withShaderClass/HelloTriangle/Source.cpp
